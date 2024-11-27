@@ -1,0 +1,1 @@
+This webpage displays some famous quotes and declarations from movies and TV shows. I created an HTML document with the following code. I added a CSS rule that makes all of the quotes have an italic font style, so they'll look more like quotes.
